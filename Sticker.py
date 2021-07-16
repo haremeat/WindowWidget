@@ -113,6 +113,7 @@ class Sticker(QtWidgets.QMainWindow):
 if __name__ == '__main__':
     app = QtWidgets.QApplication(sys.argv)
 
+    # git에 왜 안올라가냐
     # s = Sticker('Assets/ogu_glance.gif', xy=[-80, 200], on_top=False)
     #
     # s1 = Sticker('Assets/ogu_ball.gif', xy=[780, 1020], size=0.3, on_top=True)
